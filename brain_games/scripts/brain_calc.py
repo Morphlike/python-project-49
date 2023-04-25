@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-from ..games import start_game, even_game
+from ..games import start_game, calc_game
 
 
 def main():
-    start_game.game_engine(even_game)
+    start_game.game_engine(calc_game)
 
 
 if __name__ == '__main__':
