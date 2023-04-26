@@ -1,5 +1,4 @@
 import random
-import math
 
 
 question = 'What number is missing in the progression?'
